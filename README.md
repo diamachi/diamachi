@@ -6,10 +6,20 @@
 
 ### 🎭 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to tinker around with OSes, optimising them, tring to find and make new software solutions, just to make it that much easier.\
 🎓 &nbsp;I'm currently studying Chemical Engineering at **Indian Institute of Technology IIT Dhanbad**.\
-🌱 &nbsp;I'm on track for learning more about BlockChain Technologies and Cloud Architecture.\
-🎮 &nbsp;In my free time, I game and read.
+📃 &nbsp;I'm on track for learning more about BlockChain Technologies and Cloud Computing.\
+🎮 &nbsp;In my free time, I game and read. Have a bit of a soft spot for Minecraft :)
+<br>
+<br>
+<p align ="center">
+🎃 &nbsp;I recently started learning React and web development in general. Making small projects and rebuilding famous websites is extremely satisfying.   
+</p>
+<br>
+<br>
+
+
+
 
 <img alt="Night Coding" src="./assets/123.gif" align="right" width="350"/>
 
@@ -34,11 +44,21 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+<br>
+<br>
+
 <p align="center">
 
 ![Diamachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=diamachi&hide=contribs&show_icons=true&theme=synthwave)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diamachi&theme=radical&date_format=M%20j%5B%2C%20Y%5D&dates=26FFB6)](https://git.io/streak-stats)
 
+</p>
+
+### 🎶 &nbsp; What Am I Chilling With?
+<p align ="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313zhibh4lxub7jseamnbqsckmni&cover_image=true&theme=default&bar_color=d9208c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -47,4 +67,4 @@
 <a href="https://discordapp.com/users/630093122277343242"><img src="https://img.shields.io/badge/Discord-Diamachi-blueviolet"/></a>
 
 
-![]()
+
