@@ -6,7 +6,7 @@
 
 ### 🎭 &nbsp;About Me
 
-💡 &nbsp;I like to tinker around with OSes, optimising them, tring to fix and make/find new software solutions, just to make it that much easier\
+💡 &nbsp;I like to tinker around with OSes, optimising them, trying to fix and make/find new software solutions, just to make it that much easier\
 🎓 &nbsp;I'm currently studying Chemical Engineering at **Indian Institute of Technology IIT Dhanbad**\
 📃 &nbsp;I'm on track for learning more about BlockChain Technologies and Cloud Computing\
 🎮 &nbsp;In my free time, I game and read. Have a bit of a soft spot for Minecraft :) \
