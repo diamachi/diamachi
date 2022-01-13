@@ -74,7 +74,9 @@
 ### 🎶 &nbsp; What Am I Chilling With?
 <p align ="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313zhibh4lxub7jseamnbqsckmni&cover_image=true&theme=default&bar_color=d9208c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)</p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313zhibh4lxub7jseamnbqsckmni&cover_image=true&theme=default&bar_color=ff007b&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=313zhibh4lxub7jseamnbqsckmni&redirect=true)
+
+</p>
 
 <br>
 
