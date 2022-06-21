@@ -8,17 +8,7 @@
 
 💡 &nbsp;I like to tinker around with OSes, optimising them, trying to fix and make/find new software solutions, just to make it that much easier\
 🎓 &nbsp;I'm currently studying Chemical Engineering at **Indian Institute of Technology IIT Dhanbad**\
-📃 &nbsp;I'm on track for learning more about BlockChain Technologies and Cloud Computing\
-🎮 &nbsp;In my free time, I game and read. Have a bit of a soft spot for Minecraft :) \
-🔌 &nbsp;I also like to experiment with custom roms on android phones
-
-<br>
-<br>
-<p align ="center">
-🎃 &nbsp;I recently started learning React and web development in general. Making small projects and rebuilding famous websites is extremely rewarding to look at. I definitely would like to become a contirbutor to any one of so many amazing projects here on the web. 
-</p>
-<br>
-<br>
+🎮 &nbsp;I game (Minecraft & Battlefield :)) \
 
 
 
@@ -47,16 +37,6 @@
 ![WSL2](https://img.shields.io/badge/-WSL2-05122A)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?color=05122A&style=flat&logo=linux&logoColor=yellow)
 
-<br>
-
-
-### 🎈 &nbsp;Fun Stack
-
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?color=05122A&style=flat&logo=unrealengine&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?color=05122A&style=flat&logo=Adobe%20Premiere%20Pro&logoColor=violet)
-<br>
 <br>
 ### ⚙️ &nbsp;GitHub Analytics
 
