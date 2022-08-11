@@ -8,7 +8,7 @@
 
 💡 &nbsp;I like to tinker around with OSes, optimising them, trying to fix and make/find new software solutions, just to make it that much easier\
 🎓 &nbsp;I'm currently studying Chemical Engineering at **Indian Institute of Technology IIT Dhanbad**\
-🎮 &nbsp;I game (Minecraft & Battlefield :)) \
+🎮 &nbsp;I game (Minecraft & Battlefield :))
 
 
 
