@@ -25,12 +25,12 @@
 
 <p align="center">
 
-<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=diamachi&theme=radical&date_format=M%20j%5B%2C%20Y%5D&dates=26FFB6"/></p>
+<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=diamachi&theme=radical&date_format=M%20j%5B%2C%20Y%5D&dates=26FFB6" width="350"/></p>
 
 ## <p align="center"> 🎶 &nbsp; What Am I Chilling With?</p>
 
 
-<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=313zhibh4lxub7jseamnbqsckmni&cover_image=true&theme=default&bar_color=ff007b&bar_color_cover=false"/></p>
+<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=313zhibh4lxub7jseamnbqsckmni&cover_image=true&theme=default&bar_color=ff007b&bar_color_cover=false" width="250"/></p>
 
 
 <br>
