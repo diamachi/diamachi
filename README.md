@@ -1,13 +1,13 @@
 
 
-<p align="center"> <img src="./assets/123.gif" alt="me!"/></p>
+<p align="center"> <img src="./assets/123.gif" alt="me!" width="400"></p>
 
 <h2 align="center">Hi! I'm Diamachi</h2>
 
 
 
 <p align="center">
-🎮&nbsp; I like playing games a lot, they made me learn all the stuff that I could do today, painstakingly
+🎮&nbsp; I like playing games a lot. Made me learn all the stuff that I do today, painstakingly
 </p>
 
 <p align="center">
